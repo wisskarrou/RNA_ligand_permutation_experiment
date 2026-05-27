@@ -152,14 +152,14 @@ Each model sub-directory is a lightly modified copy of the original authors' cod
 
 ## Models
 
-| Model | Task | Architecture | Reference |
-|-------|------|--------------|-----------|
-| **RNAmigos 2** | Virtual screening | Graph neural network + docking | [Mallet et al., 2024](https://doi.org/10.1093/nar/gkae200) |
-| **DeepRSMA** | Affinity regression | Cross-attention GNN | [Huang et al., 2024](https://doi.org/10.1093/bib/bbae395) |
-| **GerNA-Bind** | Binding classification | Geometric deep learning | [Xia et al., 2024](https://arxiv.org/abs/2407.16390) |
-| **RNAsmol** | Binding classification | MCNN + GCN | [Ma et al., 2023](https://doi.org/10.1093/bib/bbad201) |
-| **RSAPred** | Affinity classification | Linear model (expert features) | [Panei et al., 2022](https://doi.org/10.1093/nar/gkac314) |
-| **Boltz** | Structure prediction | Diffusion transformer | [Wohlwend et al., 2024](https://doi.org/10.1101/2024.11.19.624167) |
+| Model | Reference |
+|-------|-----------|
+| **RNAmigos 2** | [Carvajal-Patiño et al., 2025](https://www.nature.com/articles/s41467-025-57852-0) |
+| **DeepRSMA** | [Huang et al., 2024](https://doi.org/10.1093/bioinformatics/btae678) |
+| **GerNA-Bind** | [Xia et al., 2025](https://www.nature.com/articles/s42256-025-01154-z) |
+| **RNAsmol** | [Ma et al., 2025](https://www.nature.com/articles/s43588-025-00820-x) |
+| **RSAPred** | [Krishnan et al., 2024](https://doi.org/10.1093/bib/bbae002) |
+| **Boltz-2** | [Passaro et al., 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/) |
 
 ---
 
